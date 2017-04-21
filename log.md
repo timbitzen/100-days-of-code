@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: April 21, 2017
+
+**Today's Progress**: Did #lorem ipsum steps/lessons today through #lorem ipsum. About halfway through HTML5 and CSS section.
+
+**Time Spent**:  Started at 4:50 pm, 4/21/17. Total time actually spent coding: ~1.25 h
+
+**Thoughts:**  Missed yesterday. Went out to an awesome tech event (UnrealEngine Devs and RTP VR) and was too tired when I got home. I've created a recurring Coding Project in my TMS that is starred so I will do it earlier. 
+
+**Link 1:** [Free Code Camp Front End Development Certification](https://www.freecodecamp.com/timbitzen)
+
+
 ### Day 2: April 19, 2017
 
 **Today's Progress**: Did 13 steps/lessons today through #36. About halfway through HTML5 and CSS section.
