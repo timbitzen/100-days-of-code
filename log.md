@@ -2,9 +2,9 @@
 
 ### Day 3: April 21, 2017
 
-**Today's Progress**: Did #lorem ipsum steps/lessons today through #lorem ipsum. About halfway through HTML5 and CSS section.
+**Today's Progress**: Did #15 steps/lessons today through #52. Only have **12** steps left!
 
-**Time Spent**:  Started at 4:50 pm, 4/21/17. Total time actually spent coding: ~1.25 h
+**Time Spent**:  Started at 5:02 pm, 4/21/17. Reviewed until 5:19 pm. Started Step #37 at 5:20 pm. Finished Step #52 at 7:37 pm. Stopped for 15 min for dog, but otherwise uninterrupted.  Total time actually spent coding according to RescueTime was: 1 h 23 min. Another 53 min was using Notes. 30 min of that was reviewing. So ~1 h 46 min spent on today's work. 
 
 **Thoughts:**  Missed yesterday. Went out to an awesome tech event (UnrealEngine Devs and RTP VR) and was too tired when I got home. I've created a recurring Coding Project in my TMS that is starred so I will do it earlier. 
 
