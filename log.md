@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: April 22, 2017
+
+**Today's Progress**: Switched it up a little today. I edited all the HTML in an email I was sending to someone.
+
+**Time Spent**:  Started at 5:02 pm, 4/21/17. Reviewed until 5:19 pm. Started Step #37 at 5:20 pm. Finished Step #52 at 7:37 pm. Stopped for 15 min for dog, but otherwise uninterrupted.  Total time actually spent coding according to RescueTime was: 1 h 23 min. Another 53 min was using Notes. 30 min of that was reviewing. So ~1 h 46 min spent on today's work. 
+
+**Thoughts:**  This was really fun! I've heard people say not to pick really advanced projects you have ideas for when you're first starting out. But I felt like applying what I've learned already. The email was actually giving links to Free Code Camp, Gitter, GitHub, etc. to someone I met the other day. It contained a bunch of hyperlinks and an unordered list, as well as a picture stored on my drive. 
+
+I also noticed that the HTML created by my email app reused div IDs, which FCC says is a no-no style-wise. That made me happy that I'm actually absorbing this stuff. Also, I was having trouble using html and not having it it be interpreted (i.e. I wanted to have an element displayed as plain-text). I learned to use the ASCII characters (&lt;**element**&gt;) to do that! :)
+
+**Link 1:** [No Link Today]
+
 ### Day 3: April 21, 2017
 
 **Today's Progress**: Did #15 steps/lessons today through #52. Only have **12** steps left!
