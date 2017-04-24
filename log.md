@@ -2,7 +2,7 @@
 
 ### Day 5: April 23, 2017
 
-**Today's Progress**: Did #14 steps/lessons today through #66. Finished HTML5 & CSS and started Bootstrap module.!
+**Today's Progress**: Did #14 steps/lessons today through #66. Finished HTML5 & CSS and started Bootstrap module!
 
 **Time Spent**:  ~1:30 min including notes.
 
