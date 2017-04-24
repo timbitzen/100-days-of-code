@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: April 23, 2017
+
+**Today's Progress**: Did #14 steps/lessons today through #66. Finished HTML5 & CSS and started Bootstrap module.!
+
+**Time Spent**:  ~1:30 min including notes.
+
+**Thoughts:**  Feel like I might need to do some drills on syntax elsewhere. I understand everythign so far, but had to refer to my notes to remember where to put colons or `=` signs etc.
+
+**Link 1:** [Free Code Camp Front End Development Certification](https://www.freecodecamp.com/timbitzen)
+
+
 ### Day 4: April 22, 2017
 
 **Today's Progress**: Switched it up a little today. I edited all the HTML in an email I was sending to someone.
