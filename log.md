@@ -1,10 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 25, 2017
+
+**Today's Progress**: Did #7 steps/lessons in the Bootstrap module today, through #82 overall. I've completed 18 of the 31 Bootstrap modules. 
+
+**Time Spent**:  ~1 hr including notes
+
+**Thoughts:**  Was really getting fast at putting in the `<div class="row"><div class="col-xs-*"></div></div>` :D Enjoying myself.
+
+Also, I've gotten one friend turned onto this, and another said he'd look at it tomorrow. Hoping to have some local study buddies. 
+
+**Link 1:** [Free Code Camp Front End Development Certification](https://www.freecodecamp.com/timbitzen)
+
 ### Day 6: April 24, 2017
 
 **Today's Progress**: Did #9 steps/lessons in the Bootstrap module today, through #75 overall. I've completed 11 of the 31 Bootstrap modules. 
 
-**Time Spent**:  ~1:00 min including notes
+**Time Spent**:  ~1 hr including notes
 
 **Thoughts:**  Bootstrap is pretty cool.
 
